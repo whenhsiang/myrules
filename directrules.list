@@ -1,8 +1,5 @@
-DOMAIN-KEYWORD,interactivebrokers
-DOMAIN-KEYWORD,ibkr
+##DOMAIN-KEYWORD,interactivebrokers
+# DOMAIN-KEYWORD,ibkr
 DOMAIN-KEYWORD,fuliba
 DOMAIN-KEYWORD,wnflb
-DOMAIN,kessel-ws.parsec.app
-DOMAIN-KEYWORD,douyin
-DOMAIN,blog.csdn.net
-DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,kessel-ws.parsec.app
