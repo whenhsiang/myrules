@@ -6,9 +6,9 @@ DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,mintegral.net
 DOMAIN-SUFFIX,mtgglobals.com
 DOMAIN-SUFFIX,moloco.com
-# DOMAIN-SUFFIX,chartboost.com
+DOMAIN-SUFFIX,chartboost.com
 DOMAIN-SUFFIX,pangle.io
-# DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,ibyteimg.com
-# DOMAIN-KEYWORD,ad.byteoversea.com
-# DOMAIN-SUFFIX,applovin.com
+DOMAIN-KEYWORD,ad.byteoversea.com
+DOMAIN-SUFFIX,applovin.com
