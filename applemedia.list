@@ -22,11 +22,11 @@ DOMAIN,news-client-search.apple.com
 
 
 # --- Apple 直播与电台专属域名 ---
-DOMAIN,itsliveradio.apple.com,Proxy
-DOMAIN,radio.itunes.apple.com,Proxy
+DOMAIN,itsliveradio.apple.com
+DOMAIN,radio.itunes.apple.com
 
 
 # --- 第三方电台服务 ---
-DOMAIN-SUFFIX,tunein.com,Proxy
-DOMAIN-SUFFIX,radiotime.com,Proxy
-DOMAIN-SUFFIX,iheart.com,Proxy
+DOMAIN-SUFFIX,tunein.com
+DOMAIN-SUFFIX,radiotime.com
+DOMAIN-SUFFIX,iheart.com
