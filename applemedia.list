@@ -13,20 +13,23 @@ DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN,buy.itunes.apple.com
 
-
 # --- Apple News ---
 USER-AGENT,com.apple.news*
 USER-AGENT,AppleNews*
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-client-search.apple.com
 
-
 # --- Apple 直播与电台专属域名 ---
 DOMAIN,itsliveradio.apple.com
 DOMAIN,radio.itunes.apple.com
-
 
 # --- 第三方电台服务 ---
 DOMAIN-SUFFIX,tunein.com
 DOMAIN-SUFFIX,radiotime.com
 DOMAIN-SUFFIX,iheart.com
+
+# --- Apple Music API 与播放校验 ---
+DOMAIN,play.itunes.apple.com
+DOMAIN,amp-api.music.apple.com
+DOMAIN,amp-api-edge.music.apple.com
+DOMAIN,api.music.apple.com
