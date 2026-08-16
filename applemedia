@@ -1,0 +1,32 @@
+# --- Apple Music 客户端与网页请求 ---
+USER-AGENT,Music*
+USER-AGENT,*Music?
+USER-AGENT,AppleMusic*
+DOMAIN,aod-ssl.itunes.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,audio-ssl.itunes.apple.com
+DOMAIN,audio.itunes.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,applemusic.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN,buy.itunes.apple.com
+
+
+# --- Apple News ---
+USER-AGENT,com.apple.news*
+USER-AGENT,AppleNews*
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
+
+
+# --- Apple 直播与电台专属域名 ---
+DOMAIN,itsliveradio.apple.com,Proxy
+DOMAIN,radio.itunes.apple.com,Proxy
+
+
+# --- 第三方电台服务 ---
+DOMAIN-SUFFIX,tunein.com,Proxy
+DOMAIN-SUFFIX,radiotime.com,Proxy
+DOMAIN-SUFFIX,iheart.com,Proxy
